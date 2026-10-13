@@ -1,0 +1,26 @@
+## .NET
+bin/
+obj/
+*.user
+*.suo
+.vs/
+logs/
+
+## Environment / secrets - NEVER commit real secrets
+.env
+appsettings.Local.json
+appsettings.Development.json
+*.pfx
+
+## OS
+.DS_Store
+Thumbs.db
+
+## IDE
+.vscode/
+.idea/
+
+## Test results
+TestResults/
+coverage/
+*.trx
