@@ -1,3 +1,6 @@
 <Solution>
+  <Project Path="AnswerSheetEvaluation.Business/AnswerSheetEvaluation.Business.csproj" Id="0dcf06d5-fc4c-4b55-9a98-a271759fe3fc" />
+  <Project Path="AnswerSheetEvaluation.Models/AnswerSheetEvaluation.Models.csproj" Id="53e3ec6a-a0eb-4b81-b773-2847a4fa954e" />
   <Project Path="AnswerSheetEvaluation/AnswerSheetEvaluation.csproj" />
+  <Project Path="AnswerSheetEvaluationBackend.Infrastructure/AnswerSheetEvaluationBackend.Data.csproj" Id="d2bf6175-d766-4578-9bd6-00f435bfc6d6" />
 </Solution>
